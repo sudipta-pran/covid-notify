@@ -11,4 +11,6 @@
 ### run `npm run dev`
 
 ## Watch My Video in Youtube for clarification
+[Video](https://youtu.be/iHEyBkwhhMU)
+## My channel
 [Pro Pro Programming](https://www.youtube.com/channel/UC80Jvdg3fN_EL4AVQpcrM3w)
